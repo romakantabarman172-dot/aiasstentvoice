@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Voice-first AI personal assistant for daily tasks, reminders, and Android device control.",
+  "requestFramePermissions": ["MICROPHONE"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
